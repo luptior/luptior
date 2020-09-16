@@ -1,8 +1,12 @@
 ### Hi there 👋
+I'll graduate as Master of Science in Computer Science in Jan 2021. I'm actively looking for Software Developer/Software Engineer postions. I was an undergraduate researcher and assisstant bioinformatic analyst after graduation at Corbin Jones's Lab.
+
+
 
 <!--
-**luptior/luptior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+**luptior/luptior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=luptior)](https://github.com/anuraghazra/github-readme-stats)
