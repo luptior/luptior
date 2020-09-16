@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Linkedin: ganxu](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ganxu/)](https://www.linkedin.com/in/ganxu/)
+[![Linkedin: ganxu](https://img.shields.io/badge/-luptior-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ganxu/)](https://www.linkedin.com/in/ganxu/)
 ![GitHub followers](https://img.shields.io/github/followers/luptior?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=luptior.luptior)
 
