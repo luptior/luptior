@@ -8,7 +8,7 @@
 I'll graduate as Master of Science in Computer Science in Jan 2021. I'm actively looking for Software Developer/Software Engineer postions. I was an undergraduate researcher and assisstant bioinformatic analyst after graduation at Corbin Jones's Lab.
 
 
-
+![Image](https://octodex.github.com/luptior/pic.png)
 <!--
 
 
