@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 [![Linkedin: ganxu](https://img.shields.io/badge/-luptior-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ganxu/)](https://www.linkedin.com/in/ganxu/)
-[![Instagram: ganxu](https://img.shields.io/badge/-aspartame_xu-while?style=flat-square&logo=Instagram&logoColor=pink&link=https://www.instagram.com/aspartame_xu/)](https://www.instagram.com/aspartame_xu/)
 ![GitHub followers](https://img.shields.io/github/followers/luptior?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=luptior.luptior)
+[![Instagram: ganxu](https://img.shields.io/badge/-aspartame_xu-white?style=flat-square&logo=Instagram&logoColor=pink&link=https://www.instagram.com/aspartame_xu/)](https://www.instagram.com/aspartame_xu/)
 
 I'll graduate as Master of Science in Computer Science in Jan 2021. I'm actively looking for Software Developer/Software Engineer postions. I was an undergraduate researcher and assisstant bioinformatic analyst after graduation at Corbin Jones's Lab.
 
