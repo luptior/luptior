@@ -5,7 +5,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=luptior.luptior)
 [![Instagram: ganxu](https://img.shields.io/badge/-aspartame_xu-white?style=flat-square&logo=Instagram&logoColor=purple&link=https://www.instagram.com/aspartame_xu/)](https://www.instagram.com/aspartame_xu/)
 
-I'll graduate as Master of Science in Computer Science in May 2021. I'm actively looking for Software Developer/Software Engineer postions. I was a Ph.D. student in the Department of Computer Science and Engineering at Washington University.
+I'll graduate as Master of Science in Computer Science in May 2021 and am actively looking for full-time Software Developer/Software Engineer postions. Also searching for co-op and internship in spring and summer 2021 if graduate in Dec 2021. I was a Ph.D. student in the Department of Computer Science and Engineering at Washington University.
 
 ![Image](https://github.com/luptior/luptior/blob/master/pic.png)
 <!--
