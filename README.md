@@ -6,6 +6,7 @@
 [![Instagram: ganxu](https://img.shields.io/badge/-aspartame_xu-white?style=flat-square&logo=Instagram&logoColor=purple&link=https://www.instagram.com/aspartame_xu/)](https://www.instagram.com/aspartame_xu/)
 
 Ex-AI Researcher.
+My Site： https://ganxu.science
 
 ![Image](https://github.com/luptior/luptior/blob/master/pic.png)
 <!--
